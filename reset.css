@@ -1,0 +1,9 @@
+* {
+    margin: 0em; 
+    /*laranja-mecânica: separa o título principal do restante*/
+    padding: 0em; /*verde: lados*/
+}
+
+ul {
+    list-style: none; /*retira os pontos da lista*/
+}

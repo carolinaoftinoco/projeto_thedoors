@@ -1,0 +1,32 @@
+@media (max-width: 300px) {
+
+    .thedoors-slider {
+        padding: 0 15px;
+    }
+
+    .btn.seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;align-items: center;
+    }
+
+    .lista-discos {
+        height: 520px;
+    }
+
+    .disco.imagem-doors {
+        max-height: 520px;
+    }
+
+    .disco .informacoes .nome {
+        font-size: 20px;
+        max-width: 100%;
+    }
+
+    .disco .paragrafo .texto {
+        font-size: 10px;
+    }
+    
+    }
