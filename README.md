@@ -1,3 +1,13 @@
-# projeto_thedoors
+Projeto The Doors (Versão 1.0)
+
 Eis um simples projeto que apresenta a discografia básica, em estúdio, da banda The Doors.
-Ainda faltam as resenhas e alguns ajustes estéticos. Versão 1.0.
+Ainda faltam as resenhas e alguns ajustes estéticos.
+
+Tecnologias Utilizadas
+
+- HTML
+- CSS
+
+Linguagem Utilizada
+
+- JavaScript
